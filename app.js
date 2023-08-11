@@ -6,6 +6,7 @@ http.createServer(function(req, res) {
 } ).listen(3000);
 
 console.log("Server is startinggg");
+console.log("Server is staagingg");
 console.log('Server started on port 3000');
 
 
